@@ -1,0 +1,9 @@
+.settings/
+CMSIS/
+startup/
+StdPeriph_Driver/
+*.ld
+*.sfg
+*.xml
+*.cproject
+*.project
